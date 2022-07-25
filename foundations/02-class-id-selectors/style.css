@@ -1,0 +1,16 @@
+p {
+  background-color:#f4aca8;
+  font-family:Verdana, "DejaVu Sans", sans-serif;
+  font-size:18px;
+}
+.large {
+  font-size:24px;
+}
+.blue {
+  color:blue;
+  font-size:36px;
+}
+.green {
+  background-color:#9ef9a8;
+  font-weight:bold;
+}
